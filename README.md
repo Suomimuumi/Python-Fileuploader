@@ -1,6 +1,6 @@
 # Fileuploader
 
-Fileuploader is a Flask web application that allows users to upload files to the server. It utilizes Ngrok for secure tunneling to expose the local server to the internet and allows users to access the file uploader interface remotely.
+FileUploader is an application that enables users to easily set up a server for uploading files. Users can access this server either via LAN connection or remotely through a Ngrok URL. When utilizing Ngrok, the URL will be conveniently provided along with a QR code for easy access.
 
 ![Fileuploader Screenshot](screenshot.png)
 
