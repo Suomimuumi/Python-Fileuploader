@@ -26,7 +26,7 @@ Fileuploader is a Flask web application that allows users to upload files to the
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/Fileuploader.git
+    git clone https://github.com/Suomimuumi/Python-Fileuploader
     ```
 
 2. Install dependencies:
@@ -47,5 +47,3 @@ Fileuploader is a Flask web application that allows users to upload files to the
 ## Configuration
 
 Author: Arttu Väisänen
-
-License: This project is licensed under the MIT License - see the LICENSE file for details.
